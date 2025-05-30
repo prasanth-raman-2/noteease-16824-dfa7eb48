@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 4, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "7dbf1f499abe7fbe9b8ffd6f17100a65", "format-version": 4, "code-base-name": "default", "filename": "noteease_frontend/lib/main.dart", "knowledge_revision": 5}
